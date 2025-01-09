@@ -1,9 +1,12 @@
-#CTF-Zone: Adaptive Cybersecurity Learning Platform
+CTF-Zone: Adaptive Cybersecurity Learning Platform
 CTF-Zone is an interactive, machine learning-driven platform designed to enhance cybersecurity skills through dynamic Capture The Flag (CTF) challenges. Tailored to users of varying skill levels, the platform adapts based on individual performance, offering challenges in key areas such as Cryptography, Web Exploitation, Forensics, and Reverse Engineering.
 
 
 
 Key Features:
+
+
+
 1) Personalized Learning: Machine learning predicts user skill levels (Beginner, Medium, Intermediate) and recommends challenges accordingly.
 
 
